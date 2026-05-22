@@ -1,6 +1,8 @@
-<!-- 
-### { } Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paradox8599&layout=compact)
--->
-
+```json
+{
+  "username": "paradox8599",
+  "editor": "Neovim",
+  "languages": ["TypeScript", "Rust", "Python"],
+  "infra": ["Docker", "Cloudflare"]
+}
+```
